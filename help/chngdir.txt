@@ -1,0 +1,6 @@
+chngdir command
+
+for changing directory in program
+
+Syntax : chngdir dir_name
+
